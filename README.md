@@ -29,10 +29,24 @@ Some of the commonly used libraries used by Data Scientists include:
 | Power BI  |
 | Tableau  |
 
+# Data science methodology
+**Methodology** : A system of methods , And guidelines for decisions-making during scientific process.
+
+## Stages of data life cycle
+1. Plan : Decide what kind of data is needed.
+2. Capture : Collect or bring in data from a variety of sources.
+3. Manage : Care and maintain the data.
+4. Analyze : Use the data to solve problems , and make decisions.
+5. Archive : Keep relevant data stored from long-term and future.
+6. Destroy : Remove data from storage and delete any shared copies of the data.
 
 ## Useful subjects to find more
-- Machine Learning and Deep Learning
+- Machine Learning : Make computers to learn from data and make decisions . ML is field of study the AI (Artifical Intelligence) , The main method in ML is "Neural networks a nodes related with each other".
+![Neural network image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230602113310/Neural-Networks-Architecture.png)
+- Deep Learning
 - Data Analytics (SQL-Excel-Python)
 - Statistics
-- Data Visualization (Matplotlib - Seaborn - Pyplot - Folium)
+- Data Visualization (Matplotlib - Seaborn - Pyplot- Plotly - Folium)
+
+
 
