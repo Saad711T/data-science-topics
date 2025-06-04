@@ -1,7 +1,7 @@
 **This just notes about my ds study**
 Useful courses :
-![IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
-![Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
+- ![IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
+- ![Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 # Data Science
 The process of using data to understand different things.
